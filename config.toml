@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Portfolio de adriansole"
   description = "Estudiante de Desarrollo de Aplicaciones Web en CPIFP Los Enlaces"
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/homer.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
