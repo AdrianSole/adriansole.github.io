@@ -1,0 +1,17 @@
+baseURL: "localhost"
+languageCode: es-es
+title: Adrián Solé
+theme: loveit
+
+author:
+  facebook: "https://facebook.com/example" 
+  twitter: "https://twitter.com/example" 
+  email: "contact@example.org" 
+  name: "Acme Corporation" 
+  location: Zaragoza
+  phone: (999) 999-9999 
+  hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
+
+params:
+  defaultTheme: auto
+  gitRepo: "https://github.com/dillonzq/LoveIt"
