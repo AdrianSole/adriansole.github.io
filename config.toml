@@ -48,15 +48,15 @@ pygmentsStyle = "monokai"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    pre = "<span data-feather='home'></span>"
-    url = "/"
+    name = "LinkedIn"
+    pre = "<img class='svg-inject' src='/icons/linkedin.svg' />"
+    url = "https://es.linkedin.com/in/adrian-sole-albiac-b85b8622a"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    name = "InfoJobs"
+    pre = "<img class='svg-inject' src='/icons/infojobs.svg' />"
+    url = "https://www.infojobs.net/"
     weight = 2
 
   [[menu.main]]
