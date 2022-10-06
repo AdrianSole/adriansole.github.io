@@ -37,9 +37,6 @@ pygmentsStyle = "monokai"
   """
   socialIcons = [
     {name = "twitter", url = "https://example.com"},
-    {name = "linkedin", url = "https://example.com"},
-    {name = "stackoverflow", url = "https://example.com"},
-    {name = "dribbble", url = "https://example.com"},
     {name = "instagram", url = "https://example.com"},
     {name = "twitch", url = "https://example.com"},
     {name = "email", url = "mailto:example@example.com"}
@@ -48,46 +45,34 @@ pygmentsStyle = "monokai"
 
 [menu]
   [[menu.main]]
-    name = "LinkedIn"
+    name = ""
     pre = "<img class='svg-inject' src='/icons/linkedin.svg' />"
     url = "https://es.linkedin.com/in/adrian-sole-albiac-b85b8622a"
     weight = 1
 
   [[menu.main]]
-    name = "InfoJobs"
+    name = ""
     pre = "<img class='svg-inject' src='/icons/infojobs.svg' />"
     url = "https://www.infojobs.net/"
     weight = 2
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 4
-
-  [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/AdrianSole"
-    weight = 5
+    weight = 3
 
   [[menu.main]]
     identifier = "gmail"
     pre = "<img class='svg-inject' src='/icons/gmail.svg' />"
     url = "https://www.gmail.com/"
-    weight = 6
+    weight = 4
 
   [[menu.main]]
     identifier = "rss"
     pre = "<span data-feather='rss'></span>"
     url = "/index.xml"
-    weight = 7
+    weight = 5
 
 [markup]
   [markup.tableOfContents]
