@@ -79,7 +79,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     identifier = "gmail"
-    pre = "<span data-feather='gmail'></span>"
+    pre = "<img class='svg-inject' src='/icons/gmail.svg' />"
     url = "https://www.gmail.com/"
     weight = 6
 
