@@ -45,8 +45,8 @@ pygmentsStyle = "monokai"
 
 [menu]
   [[menu.main]]
-    name = ""
-    pre = "<img class='svg-inject' src='/icons/linkedin.svg' />"
+    name = "LinkedIn"
+    pre = "<span data-feather='linkedin'></span>"
     url = "https://es.linkedin.com/in/adrian-sole-albiac-b85b8622a"
     weight = 1
 
@@ -57,14 +57,14 @@ pygmentsStyle = "monokai"
     weight = 2
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
+    name = "Curriculum"
+    pre = "<img class='svg-inject' src='/icons/curriculum.svg' />"
     url = "/projects/"
     weight = 3
 
   [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
+    name = "Twitter"
+    pre = "<span data-feather='twitter'></span>"
     url = "/tags/"
     weight = 4
 
