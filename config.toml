@@ -78,9 +78,9 @@ pygmentsStyle = "monokai"
     weight = 5
 
   [[menu.main]]
-    identifier = "buymeacoffee"
-    pre = "<span data-feather='coffee'></span>"
-    url = "https://www.buymeacoffee.com/avijitgupta"
+    identifier = "gmail"
+    pre = "<span data-feather='gmail'></span>"
+    url = "https://www.gmail.com/"
     weight = 6
 
   [[menu.main]]
