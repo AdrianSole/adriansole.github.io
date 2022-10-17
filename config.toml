@@ -38,47 +38,12 @@ pygmentsStyle = "monokai"
   socialIcons = [
     {name = "linkedin", url = "https://es.linkedin.com/in/adrian-sole-albiac-b85b8622"},
     {name = "github", url = "https://github.com/AdrianSole"},
-    {name = "curriculum", url = "https://example.com"},
+    {name = "curriculum", url = "content/educacion.md"},
     {name = "email", url = "mailto:adrimaella@gmail.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
 [menu]
-  [[menu.main]]
-    name = ""
-    pre = "<span data-feather='linkedin'></span>"
-    url = "https://es.linkedin.com/in/adrian-sole-albiac-b85b8622a"
-    weight = 1
-
-  [[menu.main]]
-    name = ""
-    pre = "<img class='svg-inject' src='/icons/infojobs.svg' />"
-    url = "https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=8046085389151879228"
-    weight = 2
-
-  [[menu.main]]
-    name = ""
-    pre = "<img class='svg-inject' src='/icons/curriculum.svg' />"
-    url = "/projects/"
-    weight = 3
-
-  [[menu.main]]
-    name = ""
-    pre = "<span data-feather='twitter'></span>"
-    url = "/tags/"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "github"
-    pre = "<span data-feather='github'></span>"
-    url = "https://github.com/AdrianSole"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "gmail"
-    pre = "<img class='svg-inject' src='/icons/gmail.svg' />"
-    url = "https://www.gmail.com/"
-    weight = 6
 
   [[menu.main]]
     identifier = "rss"
