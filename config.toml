@@ -38,7 +38,7 @@ pygmentsStyle = "monokai"
   socialIcons = [
     {name = "linkedin", url = "https://es.linkedin.com/in/adrian-sole-albiac-b85b8622"},
     {name = "github", url = "https://github.com/AdrianSole"},
-    {name = "curriculum", url = "content/educacion.md"},
+    {name = "curriculum", url = "educacion.md"},
     {name = "email", url = "mailto:adrimaella@gmail.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
