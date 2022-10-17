@@ -29,3 +29,16 @@ Mantenimiento de árboles frutales y recolección de fruta.
 
 Carga y descarga de productos, mantenimiento y limpieza de almacén, uso de traspaleta mecánica y
 flejado de palets.
+
+---
+
+# Educación
+
+**Cursando actualmente**, Grado superior: Desarrollo de aplicaciones web.
+
+**B2 Inglés**, Academia Mentes Abiertas, Zaragoza.
+
+**Prueba de acceso a grado superior**, Academia Brick, Caspe.
+
+**ESO**, IES Mar de Aragón, Maella.
+
